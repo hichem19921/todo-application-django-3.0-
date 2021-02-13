@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h3{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 45px;
+    
+}
+
+.list {
+    background-color: teal;
+    text-align: center;
+
+}
+
+span {
+    color: whitesmoke;
+    font-size: 25px;
+    
+
+}
+
+strike {
+    color: whitesmoke;
+    font-size: 25px;
+    
+
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color:black;
+    
+}
+
+form {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
